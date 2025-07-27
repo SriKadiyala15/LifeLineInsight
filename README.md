@@ -2,7 +2,7 @@ LifelineInsight – Suicide Rate Analysis in India
 
 This project aims to analyze and predict suicide trends in India using publicly available data. It provides **two versions** of analysis:
 
-1. Regular Python-based Analysis (with Linear Regression)
+1. Regular Python-based Analysis (with Linear Regression) - 
 The Python version performs exploratory data analysis and applies Linear Regression to predict suicide trends in India up to the year 2023.
 
 Using the Kaggle dataset (2001–2012), we processed the data with Pandas, visualized key patterns using Seaborn/Matplotlib, and built a basic predictive model with Scikit-learn.
@@ -15,7 +15,7 @@ Key Steps:
 
 File: LifelineInsight/Analysis_of_Suicide_Rate_India.ipynb
 
-2. Tableau Dashboard for interactive data visualization
+2. Tableau Dashboard for interactive data visualization - 
 An interactive Tableau dashboard was built using the original Kaggle dataset to explore trends in suicide rates across gender, age groups, causes, and states.
 
 Key Visuals:
